@@ -3,6 +3,7 @@ const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
 
+
 // TODO: Create an array of questions for user input
 const questions = () => {
 return inquirer.prompt([
@@ -48,7 +49,7 @@ return inquirer.prompt([
             type: 'list',
             name: 'license',
             message: 'Which license is your project covered under?',
-            choices: ['MIT', 'GNU', 'GPL', 'BSD']
+            choices: ['MIT', 'GPL', 'BSD', 'No License']
         },
         {
             type: 'input',
@@ -72,5 +73,5 @@ questions()
                 return console.log(err);
             }
             console.log('Success!');
-        });
+        }); 
     });

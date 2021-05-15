@@ -1,28 +1,32 @@
-# t
+# d
+  
 ## Description
-t
+d
 
 ## Table of Contents
-* [Installation]
-* Usage
-* License
-* Contributing
-* Tests
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributing](#Contributing)
+* [Tests](#Tests)
 * [Questions](#Questions)
 
 ## Installation
-t
+d
 
 ## Usage
-t
+d
+
+## License
+MIT
 
 ## Contributing
-t
+d
 
 ## Tests
-t
+d
 
 ## Questions
-t
-t
+GitHub Username: [d](https://github.com/d)
+For more information, please email me at: d
 
