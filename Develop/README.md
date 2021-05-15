@@ -1,7 +1,9 @@
-# d
+# README Generator
+  ![GitHub license](https://img.shields.io/badge/License:-MIT-blue.svg)
   
 ## Description
-d
+README Generator creates a professional README for your project using simple input prompts
+
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -12,21 +14,22 @@ d
 * [Questions](#Questions)
 
 ## Installation
-d
+Just use it
 
 ## Usage
-d
+Don't break it
 
 ## License
-MIT
+This project is covered under the MIT license.
+[Click here for MIT License information.](https://mit-license.org/)
 
 ## Contributing
-d
+Don't mess it up
 
 ## Tests
-d
+Test it all day
 
 ## Questions
-GitHub Username: [d](https://github.com/d)
-For more information, please email me at: d
+GitHub Username: [misn0147](https://github.com/misn0147)
+For more information, please email me at: natoli.missy@gmail.com
 

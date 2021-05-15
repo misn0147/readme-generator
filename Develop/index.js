@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
-const generateMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown= require('./utils/generateMarkdown');
 
 
 // TODO: Create an array of questions for user input
@@ -49,7 +49,7 @@ return inquirer.prompt([
             type: 'list',
             name: 'license',
             message: 'Which license is your project covered under?',
-            choices: ['MIT', 'GPL', 'BSD', 'No License']
+            choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None']
         },
         {
             type: 'input',
@@ -73,5 +73,8 @@ questions()
                 return console.log(err);
             }
             console.log('Success!');
-        }); 
+        })
     });
+
+
+
