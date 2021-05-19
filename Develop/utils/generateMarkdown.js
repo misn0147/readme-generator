@@ -85,7 +85,7 @@ ${data.contribution}
 ${data.tests}
 
 ## Questions
-For more information or if you have any questions about this project, please see my GitHub at [${data.github}](https://github.com/${data.github}) or reach out to me by email at ${data.email}
+For more information or if you have any questions about this project, please see my GitHub at [${data.github}](https://github.com/${data.github}, "_blank") or reach out to me by email at ${data.email}
 
 `;
 }

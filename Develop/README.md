@@ -1,8 +1,8 @@
 # README Generator
-  ![GitHub license](https://img.shields.io/badge/License-Apache%202.0-red.svg)
+  ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
   
 ## Description
-A command line application that generates a professional README.md using user input from prompts.
+Command line application that generates a professional README.md page using user input from simple prompts.
 
 
 ## Table of Contents
@@ -14,21 +14,21 @@ A command line application that generates a professional README.md using user in
 * [Questions](#Questions)
 
 ## Installation
-Fork the repository, clone the repository to local device, run npm install to install dependancies Inquirer
+fork the repository, clone the repository to local device, run npm install to install dependancy - Inquirer
 
 ## Usage
-Use to create READMe
+run 'node index' at command line, enter answers to prompts, README will generate upon successful prompt completion
 
 ## License
-This project is covered under the APACHE 2.0 license.
-[Click here for Apache 2.0 License information.](https://www.apache.org/licenses/LICENSE-2.0.html)
+This project is covered under the MIT license.
+[Click here for MIT License information.](https://mit-license.org/)
 
 ## Contributing
 feel free to contribute
 
 ## Tests
-No test required
+no tests required
 
 ## Questions
-For more information or if you have any questions about this project, please see my GitHub at [misn0147](https://github.com/misn0147) or reach out to me by email at natoli.missy@gmail.com
+For more information or if you have any questions about this project, please see my GitHub at [misn0147](https://github.com/misn0147, "_blank") or reach out to me by email at natoli.missy@gmail.com
 
