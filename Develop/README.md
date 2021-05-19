@@ -1,8 +1,8 @@
 # README Generator
-  ![GitHub license](https://img.shields.io/badge/License:-MIT-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/License-Apache%202.0-red.svg)
   
 ## Description
-README Generator creates a professional README for your project using simple input prompts
+A command line application that generates a professional README.md using user input from prompts.
 
 
 ## Table of Contents
@@ -14,22 +14,21 @@ README Generator creates a professional README for your project using simple inp
 * [Questions](#Questions)
 
 ## Installation
-Just use it
+Fork the repository, clone the repository to local device, run npm install to install dependancies Inquirer
 
 ## Usage
-Don't break it
+Use to create READMe
 
 ## License
-This project is covered under the MIT license.
-[Click here for MIT License information.](https://mit-license.org/)
+This project is covered under the APACHE 2.0 license.
+[Click here for Apache 2.0 License information.](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## Contributing
-Don't mess it up
+feel free to contribute
 
 ## Tests
-Test it all day
+No test required
 
 ## Questions
-GitHub Username: [misn0147](https://github.com/misn0147)
-For more information, please email me at: natoli.missy@gmail.com
+For more information or if you have any questions about this project, please see my GitHub at [misn0147](https://github.com/misn0147) or reach out to me by email at natoli.missy@gmail.com
 

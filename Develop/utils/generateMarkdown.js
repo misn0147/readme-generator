@@ -6,16 +6,16 @@ const renderLicenseBadge = license => {
     return ''
   }
   if(license === 'MIT'){
-  return `![GitHub license](https://img.shields.io/badge/License:-MIT-blue.svg)`
+  return `![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)`
   }
   if(license === 'APACHE 2.0'){
-    return `![GitHub license](https://img.shields.io/badge/License:-Apache2.0-red.svg)`
+    return `![GitHub license](https://img.shields.io/badge/License-Apache%202.0-red.svg)`
   }
   if(license === 'GPL 3.0'){
-    return `![GitHub license](https://img.shields.io/badge/License:-GPL3.0-yellow.svg)`
+    return `![GitHub license](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)`
   }
   if(license === 'BSD 3'){
-    return `![GitHub license](https://img.shields.io/badge/License:-BSD3-orange.svg)`
+    return `![GitHub license](https://img.shields.io/badge/License-BSD%203-orange.svg)`
   }
 };
 
@@ -85,8 +85,7 @@ ${data.contribution}
 ${data.tests}
 
 ## Questions
-GitHub Username: [${data.github}](https://github.com/${data.github})
-For more information, please email me at: ${data.email}
+For more information or if you have any questions about this project, please see my GitHub at [${data.github}](https://github.com/${data.github}) or reach out to me by email at ${data.email}
 
 `;
 }
