@@ -2,7 +2,7 @@
   ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
   
 ## Description
-Command line application that generates a professional README.md page using user input from simple prompts.
+Command line application that uses user prompt input to generate a professional README.md
 
 
 ## Table of Contents
@@ -17,7 +17,7 @@ Command line application that generates a professional README.md page using user
 fork the repository, clone the repository to local device, run npm install to install dependancy - Inquirer
 
 ## Usage
-run 'node index' at command line, enter answers to prompts, README will generate upon successful prompt completion
+run "node index" on command line, answer prompts, README will generate uppon successful completion
 
 ## License
 This project is covered under the MIT license.
@@ -27,8 +27,8 @@ This project is covered under the MIT license.
 feel free to contribute
 
 ## Tests
-no tests required
+no tests required 
 
 ## Questions
-For more information or if you have any questions about this project, please see my GitHub at [misn0147](https://github.com/misn0147, "_blank") or reach out to me by email at natoli.missy@gmail.com
+For more information or if you have any questions about this project, please see my GitHub at [misn0147](https://github.com/misn0147) or reach out to me by email at natoli.missy@gmail.com
 
