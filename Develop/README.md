@@ -4,7 +4,7 @@
 ## Description
 Command line application that generates a professional README using user input from simple prompts
 
-![video](<iframe src="https://drive.google.com/file/d/1I5xzFktePMPe9_dQmth5USqmDK78JIGm/preview" width="640" height="480"></iframe>)
+[![video](<iframe src="https://drive.google.com/file/d/1I5xzFktePMPe9_dQmth5USqmDK78JIGm/preview" width="640" height="480"></iframe>)]
 
 
 ## Table of Contents
