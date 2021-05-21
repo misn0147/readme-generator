@@ -4,7 +4,10 @@
 ## Description
 Command line application that generates a professional README.md using user input from simple prompts.
 
-https://drive.google.com/file/d/1I5xzFktePMPe9_dQmth5USqmDK78JIGm/view
+Explanation/demo: https://drive.google.com/file/d/1I5xzFktePMPe9_dQmth5USqmDK78JIGm/view
+
+![image](https://user-images.githubusercontent.com/79875711/119072421-0dfd8300-b9b1-11eb-9fb9-aaf1958f1014.png)
+
 
 
 ## Table of Contents
